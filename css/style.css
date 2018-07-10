@@ -1,6 +1,7 @@
 /* add CSS class and element and selectors here */
     body {
       background-color: red;
+      text-color
     }
     h3 {
       font-size: 300%;
@@ -9,4 +10,5 @@
     div {
       border: 2px solid blue;
     }
+    
     
