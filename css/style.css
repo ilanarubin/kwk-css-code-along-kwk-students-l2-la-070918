@@ -1,7 +1,8 @@
 /* add CSS class and element and selectors here */
     body {
       background-color: red;
-      text-color
+      color: green;
+      
     }
     h3 {
       font-size: 300%;
